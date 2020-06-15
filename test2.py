@@ -23,3 +23,6 @@ class Buffer:
 buf = Buffer()
 buf.add(1, 3, 4, 3, 4, 62, 7, 4, 6, 8, 2, 3)
 buf.get_current_part()
+
+
+#new line
