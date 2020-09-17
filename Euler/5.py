@@ -3,7 +3,6 @@ import time
 n = 20
 m = True
 cart1 = []
-for i in range(3, 20):
     cart1.append(1)
 while m:
     n += 20
@@ -17,3 +16,4 @@ while m:
         m = False
     del cart2
 print('final ', n)
+
