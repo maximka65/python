@@ -20,3 +20,5 @@ for i in list(reversed(range(100, 1000))):
             n.append(j)
 
 print(m[0], ' * ', n[0])
+
+print(locals())
